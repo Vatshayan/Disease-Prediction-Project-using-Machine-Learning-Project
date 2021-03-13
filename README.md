@@ -1,10 +1,7 @@
 # B.tech-Disease-Prediction-Project
 Final Year Project on Diseases Prediction System Developed though Machine Learning and Python
 
-# Final-Year-Disease-Prediction-Project
-
-![clientLogo](https://user-images.githubusercontent.com/28294942/107939194-67b67180-6fac-11eb-8543-8024509dd03e.png)
-
+<img width="637" alt="PPT" src="https://user-images.githubusercontent.com/28294942/111044428-ab4ab100-846e-11eb-889d-befda0eba644.PNG">
 
 Final Year Project on Diseases Prediction System Developed though Machine Learning and Python
 
@@ -16,11 +13,14 @@ This System Predict Different types of Disease through given Symptoms.
 
 Datasets contain more than 4000 types of Diseases. 
 
+Two Types of Dataset Involved -
+1. Testing 
+2. Traning
+
 ### You can use this Project in your college and work
 
 ******************************************************************************************************************************************************************
 Hi there, 
-
 ## HOW TO RUN THIS PROJECT -
 Mail me Now at **vatshayan007@gmail.com** to get Project report, PPT, Project Code and Synopsis.
 
@@ -29,8 +29,4 @@ Mail me at **vatshayan007@gmail.com** to get Help on kind of Project related to 
 
 📫 **HOW TO REACH ME**
 
-💬 Click on this link to message me directly on Whatsapp- **https://wa.me/message/CHWN2AHCPMAZK1**
-
 💬 Gmail: vatshayan007@gmail.com
-
-Ask Freely!
