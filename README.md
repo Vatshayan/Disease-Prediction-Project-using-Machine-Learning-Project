@@ -30,9 +30,14 @@ Mail me Now at **vatshayan007@gmail.com** to get Project report, PPT, Project Co
 ## CONTACT -
 Mail me at **vatshayan007@gmail.com** to get Help on kind of Project related to Machine Learning, Cryptography, Data Science and Web Development. 
 
-📫 **HOW TO REACH ME**
 
-💬 Gmail: vatshayan007@gmail.com
+## How to Reach me :
 
-### CSE Projects: [LINK](https://www.cse-projects.com)
+### 💬 Mail : vatshayan007@gmail.com 
+
+### 💬 WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Website : https://www.cse-projects.com/
+
+### 1000 Computer Science Project List : https://www.computer-science-project.in/
 
