@@ -1,5 +1,6 @@
 # B.tech-Disease-Prediction-Project
 Final Year Project on Diseases Prediction System Developed though Machine Learning and Python
+### Youtube Brief : https://www.youtube.com/watch?v=SxEmvvdmdd8
 
 <img width="637" alt="PPT" src="https://user-images.githubusercontent.com/28294942/111044428-ab4ab100-846e-11eb-889d-befda0eba644.PNG">
 
