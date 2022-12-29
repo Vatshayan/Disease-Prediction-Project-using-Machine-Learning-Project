@@ -22,16 +22,17 @@ Two Types of Dataset Involved -
 
 ## Youtube Explnation: https://www.youtube.com/watch?v=SxEmvvdmdd8
 
-### Base Research Paper : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661426
+## Base Research Paper : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661426
 ******************************************************************************************************************************************************************
+
 Hi there👋
-## HOW TO RUN THIS PROJECT -
+## HOW TO RUN THIS PROJECT :
 Mail me Now at **vatshayan007@gmail.com** to get Project report, PPT, Project Code and Synopsis.
 
 ## CONTACT -
 Mail me at **vatshayan007@gmail.com** to get Help on kind of Project related to Machine Learning, Cryptography, Data Science and Web Development. 
 
-### Need Code, Documents & Explanation video ? 
+### Need Code, Documents &  Explanation video ? 
 
 ## How to Reach me :
 
