@@ -2,7 +2,7 @@
 Final Year Project on Diseases Prediction System Developed though Machine Learning and Python
 ### Youtube Brief : https://www.youtube.com/watch?v=SxEmvvdmdd8
 
-<img width="637" alt="PPT" src="https://user-images.githubusercontent.com/28294942/111044428-ab4ab100-846e-11eb-889d-befda0eba644.PNG">
+![Disease Prediction using Machine Learning](https://user-images.githubusercontent.com/28294942/209925031-aec48b0d-a502-4a0b-9156-12151edfddd2.png)
 
 Final Year Project on Diseases Prediction System Developed though Machine Learning and Python
 
